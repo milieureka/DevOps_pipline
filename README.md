@@ -59,4 +59,3 @@ Handles the dynamics of bullets fired by the player, including movement, renderi
 Properties: Stores state information such as position, velocity, and direction.
 
 Lifecycle Management: Managed by the Player class, which creates, updates, and deletes bullets based on game logic.
-
